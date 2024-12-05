@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">AWS IoT Device Management (300)</name>
+      <description lang="en-US">&lt;p&gt;AWS IoT Device Management makes it easy to securely on-board, organize, monitor, and remotely manage IoT Devices at scale. This course teaches you to use the features of AWS IoT Device Management in the AWS Management Console and AWS Command Line Interface (CLI), starting with provisioning of single or bulk IoT Devices. You learn to use thing groups, dynamic thing groups, fleet indexing, and search to organize IoT devices logically. Lastly, you learn to monitor and manage IoT devices using fine-grained logging and jobs. &lt;/p&gt;</description>
+    <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/hmSJkK4AmUcZbjUJyMWnMWSj1QmZkHd-" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introduction to Iot device management/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/AOMgBMJIuBQzTHgUPdtNeY3U0d_w147t" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Course Introduction/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/cFiMlOFKblVBcnSdJ7CrRVy1EzDmDj7u" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">When to use AWS IoT Device Management/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/nBKCfaKSDebrcvt6mE8pcgILyhrkk4DC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">AWS IoT Device Management features/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/TUSstusT1sohrGF-UbanSE1lD-df6BeS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Benefits of AWS IoT Device Management/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/gbKlarDPQXIZ7FHN_Db4wTZP4cNiLzMQ" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">On-board/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/7O0sjg3sABN0uV3Fhg-_lc0hcdOwjjUC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quick Review: What is a thing?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/zcw10-oerrtFKx0oiZlvL3tdV_DXHW-6" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quick Review: What is a thing type? /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/fQtjw4FIwp09OGnz_ICBzsukZ91I9bhX" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Single device provisioning/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/dI0WvMCabwiuVYQEqbVAoS1wbsEdnIBV" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Bulk device provisioning/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/pGE9zD6eJtXF6ZAP3UQD4Qe9phedzqlh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Just-in-time provisioning (JITP) /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/b9ad6pAthjhoTfGux0a54Ogc-Q_KTEX-" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Just-in-time registration (JITR)/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/jAP1gf5-Fdkrcy-Mgf86n8E1Xh5O3-X4" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Comparing JITP and JITR/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/igeN1LRfrkWD0-a94pHBUq1d8FGDcZ5w" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Knowledge Check/quiz</name>
+      <description lang="en-US">&lt;p&gt;Let&amp;#39;s take a moment to see what you&amp;#39;ve learned about device provisioning!&lt;/p&gt;</description>
+    </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/igeN1LRfrkWD0-a94pHBUq1d8FGDcZ5w/cjraq3dyd002k3a62ocn805qw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;When you provision a device, you create and register which of the following?&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjraq3dyd002k3a62ocn805qw_cjrasagux004d3a62cdklsxbg</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002l3a62vl1hpomo</id>
+            <description lang="en-US">&lt;p&gt;A certificate&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002m3a62mn48f6w7</id>
+            <description lang="en-US">&lt;p&gt;A policy&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrasa4dn004b3a62shyqivhc</id>
+            <description lang="en-US">&lt;p&gt;A unique identifier for your thing&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrasaavt004c3a625jyu4iyk</id>
+            <description lang="en-US">&lt;p&gt;Attributes associated with the thing&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrasagux004d3a62cdklsxbg</id>
+            <description lang="en-US">&lt;p&gt;All of the above&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/igeN1LRfrkWD0-a94pHBUq1d8FGDcZ5w/cjrasfbnv004e3a62mc6yekxs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;JITP applies a static provisioning process to all devices that connect to AWS IoT for the first time. JITR, however, is more flexible and applies a dynamic provisioning process depending on the type of device that connects.&amp;nbsp;&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjrasfbnv004e3a62mc6yekxs_cjrasfbnv004f3a62ny19j8o6</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjrasfbnv004e3a62mc6yekxs_cjrasfbnv004f3a62ny19j8o6</id>
+            <description lang="en-US">&lt;p&gt;True&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjrasfbnv004e3a62mc6yekxs_cjrasfbnv004g3a62wjhtk79j</id>
+            <description lang="en-US">&lt;p&gt;False&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/rJ48r51oX3s3iDPabhn-h60viuCefWLO" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Key takeaways/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/cpXEIglbYzXby72-PLxQXGssIioey920" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Organize/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/0HBlScWeBj-zaajR-YnU__HQu8dVxoXL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Thing groups/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/gizDmJmDPMX4UHTru_pN3_j5Nn3xy7cw" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Fleet indexing and search/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/JBYu-6GJfg6QqejmwQg8mNQzdOiZEarC" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Dynamic thing groups/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/OpU30cX2FaBZAGqlpyAgBO0RmATxZD2S" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Knowledge Check/quiz</name>
+      <description lang="en-US">&lt;p&gt;Let&amp;#39;s take a moment to see what you&amp;#39;ve learned about organizing IoT devices!&lt;/p&gt;</description>
+    </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/OpU30cX2FaBZAGqlpyAgBO0RmATxZD2S/cjraq3dyd002k3a62ocn805qw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;The status of a dynamic thing group can take on which of the following values (choose all that apply)?&amp;nbsp;&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002l3a62vl1hpomo</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002l3a62vl1hpomo</id>
+            <description lang="en-US">&lt;p&gt;Active&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002m3a62mn48f6w7</id>
+            <description lang="en-US">&lt;p&gt;Executing&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrasub1g004k3a62bp52vwf0</id>
+            <description lang="en-US">&lt;p&gt;Building&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrasuug9004l3a62p16rqtfa</id>
+            <description lang="en-US">&lt;p&gt;Rebuilding&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrasv24d004m3a62j6842gkn</id>
+            <description lang="en-US">&lt;p&gt;Passive&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/OpU30cX2FaBZAGqlpyAgBO0RmATxZD2S/cjraq3dyd002n3a62ets7y9vm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;True or False: Thing groups are hierarchical and can contain child groups.&amp;nbsp;&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002o3a62m8dbac0a</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002o3a62m8dbac0a</id>
+            <description lang="en-US">&lt;p&gt;True&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002q3a62h16h99p0</id>
+            <description lang="en-US">&lt;p&gt;False&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/OpU30cX2FaBZAGqlpyAgBO0RmATxZD2S/cjrasyz67004n3a62vvz4nx4v" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;Which service allows you to index and search your registry data, shadow data, and device connectivity data in the cloud?&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjrasyz67004n3a62vvz4nx4v_cjrasyz67004p3a62m7wkme36</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjrasyz67004n3a62vvz4nx4v_cjrasyz67004o3a62qjc17hi4</id>
+            <description lang="en-US">&lt;p&gt;Device indexing&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjrasyz67004n3a62vvz4nx4v_cjrasyz67004p3a62m7wkme36</id>
+            <description lang="en-US">&lt;p&gt;Fleet indexing&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjrasyz67004n3a62vvz4nx4v_cjrat01s7004q3a62j80z2gtz</id>
+            <description lang="en-US">&lt;p&gt;Registry indexing&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/Bvj1GLkyqZXYwPe-4ZtLgKz2fiwnyo3t" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Key takeaways/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/TVWlMDTTw9d_mp9QiCo06B6hCQuMvgxn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Monitor/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/9XpP93a5l4q_uXTJpPcQ4PWLy4rZlFsj" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Fine-grained logging/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/7d-aSujgjiad57xyklx6klhCTZ_bJulq" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Knowledge Check/quiz</name>
+      <description lang="en-US">&lt;p&gt;Let&amp;#39;s take a moment to see what you&amp;#39;ve learned about monitoring IoT devices!&lt;/p&gt;</description>
+    </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/7d-aSujgjiad57xyklx6klhCTZ_bJulq/cjraq3dyd002k3a62ocn805qw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;Which of the following can be a target for fine-grained logging?&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002m3a62mn48f6w7</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002l3a62vl1hpomo</id>
+            <description lang="en-US">&lt;p&gt;An IoT device&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002m3a62mn48f6w7</id>
+            <description lang="en-US">&lt;p&gt;Thing Group&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrc0wheb00343a6226gd8wbo</id>
+            <description lang="en-US">&lt;p&gt;Thing Type&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/7d-aSujgjiad57xyklx6klhCTZ_bJulq/cjraq3dyd002n3a62ets7y9vm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;True or False: Fine-grained logging allows you to specify a logging level for a target.&amp;nbsp;&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002o3a62m8dbac0a</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002o3a62m8dbac0a</id>
+            <description lang="en-US">&lt;p&gt;True&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002q3a62h16h99p0</id>
+            <description lang="en-US">&lt;p&gt;False&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/gZIvBkCvz2Ap0ebPDftfyGczjm9r-bdc" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Key takeaways/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/7J-g5htLhn1XNl-T5XsL4t6JMBfpX9PM" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Remotely manage/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/xMSIv3DFIHksBJOnM9-Lt8ryZqZFDeZX" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Jobs overview/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/p3ItyWbGrpgVWH1dSg5rzwfMtvpezTRT" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">AWS IoT Jobs components/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/rXmicFB9GcbkxFCFtP6Q506ar3xomakp" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Managing AWS IoT jobs/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/5_TVP-C7h6onk0EAGaplz2AGd70domnM" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Job rollout and abort configuration/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/0jfxSU2eFQXQtKkWPOzKj5FMaMSSXvKD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Knowledge Check/quiz</name>
+      <description lang="en-US">&lt;p&gt;Let&amp;#39;s take a moment to see what you&amp;#39;ve learned about AWS IoT jobs!&lt;/p&gt;</description>
+    </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/0jfxSU2eFQXQtKkWPOzKj5FMaMSSXvKD/cjraq3dyd002k3a62ocn805qw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;What are the two types of AWS IoT jobs?&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002l3a62vl1hpomo</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002l3a62vl1hpomo</id>
+            <description lang="en-US">&lt;p&gt;Snapshot&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjraq3dyd002m3a62mn48f6w7</id>
+            <description lang="en-US">&lt;p&gt;Ad-hoc&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrarzf5m00413a62ml1iwcsu</id>
+            <description lang="en-US">&lt;p&gt;Continuous&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002k3a62ocn805qw_cjrarzk0k00423a62gwhtq8sc</id>
+            <description lang="en-US">&lt;p&gt;Persistent&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/0jfxSU2eFQXQtKkWPOzKj5FMaMSSXvKD/cjraq3dyd002n3a62ets7y9vm" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;True or False: Before you create a job, you must create a job document.&amp;nbsp;&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002o3a62m8dbac0a</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002o3a62m8dbac0a</id>
+            <description lang="en-US">&lt;p&gt;True&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjraq3dyd002n3a62ets7y9vm_cjraq3dyd002q3a62h16h99p0</id>
+            <description lang="en-US">&lt;p&gt;False&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/0jfxSU2eFQXQtKkWPOzKj5FMaMSSXvKD/cjras1eq000433a62p5xmnj8l" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+        <name lang="en-US">&lt;p&gt;Which of the following is not a reserved MQTT topic used by AWS IoT Jobs?&lt;/p&gt;</name>
+        <description lang="en-US"></description>
+        <interactionType>choice</interactionType>
+        <correctResponsePatterns>
+        <correctResponsePattern>choice_cjras1eq000433a62p5xmnj8l_cjras2fh400463a62xz3x4h89</correctResponsePattern>
+        </correctResponsePatterns>
+        <choices>
+                  <component>
+            <id>choice_cjras1eq000433a62p5xmnj8l_cjras1eq100443a62rc9lpa0o</id>
+            <description lang="en-US">&lt;p&gt;$aws/events/job/JobID/completed&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjras1eq000433a62p5xmnj8l_cjras1eq100453a62frszld82</id>
+            <description lang="en-US">&lt;p&gt;$aws/events/job/JobID/deleted&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjras1eq000433a62p5xmnj8l_cjras2fh400463a62xz3x4h89</id>
+            <description lang="en-US">&lt;p&gt;$aws/events/job/JobID/aborted&lt;/p&gt;</description>
+          </component>
+                  <component>
+            <id>choice_cjras1eq000433a62p5xmnj8l_cjras2it100473a62m1q3y6fm</id>
+            <description lang="en-US">&lt;p&gt;$aws/events/job/JobID/canceled&lt;/p&gt;</description>
+          </component>
+                </choices>
+      </activity>
+              <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/yCuF7rvGK0Dw2_URNw2a9DeQz7YRaqOn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Key takeaways/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/m4ZmDf9qVZtLdZVxhzaL8ynqw1KERc3v" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Next Steps/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://ZINW3ZxZzUZYlFEgHVFC4SnNt8XD7D-w_rise/HFmxjJ4E-pT_YtaUKvnzOYAVcaOFdsRn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Next Steps/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
